@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="LigosDiagnoze@DESKTOP-A0C0U6M" uuid="4486db96-4717-4521-bab5-ec8f5a298085">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://DESKTOP-A0C0U6M;database=LigosDiagnoze</jdbc-url>
+      <driver-properties>
+        <property name="applicationName" value="DataGrip" />
+        <property name="integratedSecurity" value="true" />
+      </driver-properties>
+    </data-source>
+  </component>
+</project>

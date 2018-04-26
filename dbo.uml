@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>DATABASE</ID>
+  <OriginalElement>4486db96-4717-4521-bab5-ec8f5a298085.SCHEMA:LigosDiagnoze.dbo</OriginalElement>
+  <nodes>
+    <node x="89.25" y="212.0">4486db96-4717-4521-bab5-ec8f5a298085.TABLE:LigosDiagnoze.dbo.Tyrimas1</node>
+    <node x="180.0" y="0.0">4486db96-4717-4521-bab5-ec8f5a298085.TABLE:LigosDiagnoze.dbo.Rodiklis</node>
+    <node x="0.0" y="375.0">4486db96-4717-4521-bab5-ec8f5a298085.TABLE:LigosDiagnoze.dbo.sysdiagrams</node>
+    <node x="0.0" y="22.0">4486db96-4717-4521-bab5-ec8f5a298085.TABLE:LigosDiagnoze.dbo.Pacientas</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="4486db96-4717-4521-bab5-ec8f5a298085.TABLE:LigosDiagnoze.dbo.Tyrimas1" target="4486db96-4717-4521-bab5-ec8f5a298085.TABLE:LigosDiagnoze.dbo.Rodiklis">
+      <point x="43.25" y="-59.0" />
+      <point x="219.0" y="187.0" />
+      <point x="271.5" y="187.0" />
+      <point x="0.0" y="81.0" />
+    </edge>
+    <edge source="4486db96-4717-4521-bab5-ec8f5a298085.TABLE:LigosDiagnoze.dbo.Tyrimas1" target="4486db96-4717-4521-bab5-ec8f5a298085.TABLE:LigosDiagnoze.dbo.Pacientas">
+      <point x="-43.25" y="-59.0" />
+      <point x="132.5" y="187.0" />
+      <point x="80.0" y="187.0" />
+      <point x="0.0" y="59.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.9364485981308411" x="434.07531365431873" y="201.30596915866033" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Columns</Category>
+    <Category>Key columns</Category>
+  </Categories>
+</Diagram>
+

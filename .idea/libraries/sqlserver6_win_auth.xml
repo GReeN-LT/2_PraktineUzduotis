@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sqlserver6-win-auth">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sqlserver6-win-auth.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
